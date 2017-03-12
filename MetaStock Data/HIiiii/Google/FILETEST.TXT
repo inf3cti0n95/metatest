@@ -1,0 +1,117 @@
+F:\MARKET\METADATA\HIE\GOOGLE
+----------------------------------------------------------
+	_BSESN	_BSESN          	Tick
+	   Error #1007 - 
+	   Error #1029 - 
+----------------------------------------------------------
+	GOOG	GOOG            	Tick
+	   Error #1007 - 
+	   Error #1029 - 
+----------------------------------------------------------
+	532868	532868          	Tick
+	   Error #1007 - 
+	   Error #1029 - 
+----------------------------------------------------------
+	ONGC	ONGC            	Tick
+	   Error #1007 - 
+	   Error #1029 - 
+	   Error #1080 - 
+	   Error #1101 - 
+----------------------------------------------------------
+	K	K               	Tick
+	   Error #1007 - 
+	   Error #1029 - 
+	   Error #1080 - 
+	   Error #1101 - 
+----------------------------------------------------------
+	SBI	SBI             	Tick
+	   Error #1007 - 
+	   Error #1029 - 
+	   Error #1080 - 
+	   Error #1101 - 
+----------------------------------------------------------
+	_FCHI	_FCHI           	Tick
+	   Error #1007 - 
+	   Error #1029 - 
+----------------------------------------------------------
+	500209	500209          	Tick
+	   Error #1007 - 
+	   Error #1029 - 
+	   Error #1101 - 
+	   Error #1091 -  - Record #1 (1/1/1800)
+	   Error #1100 -  - Record #1 (1/1/1800)
+	   Error #1091 -  - Record #2 (1/1/1800)
+	   Error #1100 -  - Record #2 (1/1/1800)
+	   Error #1089 -  - Record #3 (1/1/1800)
+	   Error #1091 -  - Record #3 (1/1/1800)
+	   Error #1100 -  - Record #3 (1/1/1800)
+	   Error #1091 -  - Record #4 (1/1/1800)
+	   Error #1100 -  - Record #4 (1/1/1800)
+	   Error #1089 -  - Record #5 (1/1/1800)
+	   Error #1091 -  - Record #5 (1/1/1800)
+	   Error #1100 -  - Record #5 (1/1/1800)
+	   Error #1089 -  - Record #6 (1/1/1800)
+	   Error #1091 -  - Record #6 (1/1/1800)
+	   Error #1100 -  - Record #6 (1/1/1800)
+	   Error #1089 -  - Record #7 (1/1/1800)
+	   Error #1091 -  - Record #7 (1/1/1800)
+	   Error #1100 -  - Record #7 (1/1/1800)
+	   Error #1089 -  - Record #8 (1/1/1800)
+	   Error #1091 -  - Record #8 (1/1/1800)
+	   Error #1100 -  - Record #8 (1/1/1800)
+	   Error #1091 -  - Record #9 (1/1/1800)
+	   Error #1100 -  - Record #9 (1/1/1800)
+	   Error #1091 -  - Record #10 (1/1/1800)
+	   Error #1100 -  - Record #10 (1/1/1800)
+	   Error #1089 -  - Record #11 (1/1/1800)
+	   Error #1091 -  - Record #11 (1/1/1800)
+	   Error #1100 -  - Record #11 (1/1/1800)
+	   Error #1091 -  - Record #12 (1/1/1800)
+	   Error #1100 -  - Record #12 (1/1/1800)
+	   Error #1091 -  - Record #13 (1/1/1800)
+	   Error #1100 -  - Record #13 (1/1/1800)
+	   Error #1091 -  - Record #14 (1/1/1800)
+	   Error #1100 -  - Record #14 (1/1/1800)
+	   Error #1089 -  - Record #15 (1/1/1800)
+	   Error #1091 -  - Record #15 (1/1/1800)
+	   Error #1100 -  - Record #15 (1/1/1800)
+	   Error #1089 -  - Record #16 (1/1/1800)
+	   Error #1091 -  - Record #16 (1/1/1800)
+	   Error #1100 -  - Record #16 (1/1/1800)
+	   Error #1089 -  - Record #17 (1/1/1800)
+	   Error #1091 -  - Record #17 (1/1/1800)
+	   Error #1100 -  - Record #17 (1/1/1800)
+	   Error #1089 -  - Record #18 (1/1/1800)
+	   Error #1091 -  - Record #18 (1/1/1800)
+	   Error #1100 -  - Record #18 (1/1/1800)
+	   Error #1089 -  - Record #19 (1/1/1800)
+	   Error #1091 -  - Record #19 (1/1/1800)
+	   Error #1100 -  - Record #19 (1/1/1800)
+	   Error #1089 -  - Record #20 (1/1/1800)
+	   Error #1091 -  - Record #20 (1/1/1800)
+	   Error #1100 -  - Record #20 (1/1/1800)
+	   Error #1091 -  - Record #21 (1/1/1800)
+	   Error #1100 -  - Record #21 (1/1/1800)
+	   Error #1089 -  - Record #22 (1/1/1800)
+	   Error #1091 -  - Record #22 (1/1/1800)
+	   Error #1100 -  - Record #22 (1/1/1800)
+	   Error #1091 -  - Record #23 (1/1/1800)
+	   Error #1100 -  - Record #23 (1/1/1800)
+	   Error #1091 -  - Record #24 (1/1/1800)
+	   Error #1100 -  - Record #24 (1/1/1800)
+	   Error #1089 -  - Record #25 (1/1/1800)
+	   Error #1091 -  - Record #25 (1/1/1800)
+	   Error #1100 -  - Record #25 (1/1/1800)
+	   Error #1091 -  - Record #26 (1/1/1800)
+	   Error #1100 -  - Record #26 (1/1/1800)
+	   Error #1089 -  - Record #27 (1/1/1800)
+	   Error #1091 -  - Record #27 (1/1/1800)
+	   Error #1100 -  - Record #27 (1/1/1800)
+	   Error #1089 -  - Record #28 (1/1/1800)
+	   Error #1091 -  - Record #28 (1/1/1800)
+	   Error #1100 -  - Record #28 (1/1/1800)
+	   Error #1091 -  - Record #29 (1/1/1800)
+	   Error #1100 -  - Record #29 (1/1/1800)
+	   Error #1089 -  - Record #30 (1/1/1800)
+	   Error #1091 -  - Record #30 (1/1/1800)
+	   Error #1100 -  - Record #30 (1/1/1800)
